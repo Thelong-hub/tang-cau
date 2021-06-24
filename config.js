@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Cậu à!',
-    introDesc: `Tôi nhớ cậu `,
+    introDesc: ` Tôi nhớ cậu `,
     btnIntro: 'hihi',
     title: 'Phải chăng tôi không thể sống nếu thiếu cậu  😙',
     desc: 'Tôi rất nhớ cậu ',
