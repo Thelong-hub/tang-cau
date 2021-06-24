@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'Phải chăng tôi không thể sống nếu thiếu cậu  😙',
     desc: 'Tôi rất nhớ cậu ',
     btnYes: 'Còn cậu thì sao , vẫn nhớ đến tôi chứ <33',
-    btnNo: 'Không, cậu à à :3',
+    btnNo: 'Không, cậu à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao tôi lại nhớ cậu <3',
     btnReply: 'Gửi cho cậu <3',
     reply: 'Tôi cũng nhớ cậu nhiều lắm <33333333',
